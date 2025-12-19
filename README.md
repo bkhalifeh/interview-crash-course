@@ -1,6 +1,6 @@
-# Quick Start
+# Interview Crash Course
 
-A personal knowledge base containing quick-start guides, crash courses, and reference notes for various technologies and programming concepts.
+A AI knowledge base containing quick-start guides, crash courses, and reference notes for various technologies and programming concepts.
 
 ## Contents
 

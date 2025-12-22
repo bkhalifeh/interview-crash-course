@@ -8,6 +8,8 @@ A AI knowledge base containing quick-start guides, crash courses, and reference 
 |-------|-------------|
 | [Go](go.md) | Go programming language crash course |
 | [Flyway](flyway.md) | Flyway database migration tool guide |
+| [Liquibase](liquibase.md) | Liquibase database schema migration tool guide |
+| [SQLAlchemy](sqlalchemy.md) | Python SQL toolkit and ORM crash course |
 
 ## Purpose
 
